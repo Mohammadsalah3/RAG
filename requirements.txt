@@ -1,0 +1,17 @@
+requests
+chroma-hnswlib==0.7.6
+langchain==0.3.23
+langchain-community==0.3.21
+langchain-text-splitters==0.3.8
+pypdf==5.4.0
+openai==1.74.0
+python-dotenv==1.1.0
+numpy==2.2.4
+rich==14.0.0
+typing-extensions==4.13.2
+tqdm==4.67.1
+ollama
+chromadb
+openai
+gradio
+os
