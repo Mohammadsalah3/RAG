@@ -23,16 +23,11 @@ A simple **Gradio UI** allows switching between models at runtime.
 ---
 
 ## 🧠 RAG Pipeline
-
-User Query
-↓
-ChromaDB (Top-K Retrieval)
-↓
-Context Construction
-↓
-LLM (Ollama / OpenAI / Hugging Face)
-↓
-Final Answer
+- User Query
+- ChromaDB (Top-K Retrieval)
+- Context Construction
+- LLM (Ollama / OpenAI / Hugging Face)
+- Final Answer
 ---
 
 ## 🛠️ Tech Stack
